@@ -23,7 +23,7 @@ body {
 
 header {
     height: 100vh;
-    background-image: linear-gradient(to top, #fff1eb7b 0%, #ace0f9 100%), url(FotosCamila/FotogradaOfi.jpg);
+    background-image: linear-gradient(to top, #fff1eb7b 0%, #ace0f9 100%), url(FotogradaOfi.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
